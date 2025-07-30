@@ -16,4 +16,4 @@ registered users, prevents access for unregistered users, and ensures that users
 - **Prevention of Unauthorized Deletion**: Prevents deletion of users who have existing bookings.
 
 
-![ER-diagram](/cinema booking.png)
+![ER-diagram](cinema _booking.png)
