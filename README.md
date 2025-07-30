@@ -2,7 +2,7 @@
 
 ### Overview
 
-The Cinema Booking System is a ticket booking application developed using Oracle PL/SQL. The system allows users to book movie tickets, 
+The *Cinema Booking System* is a *ticket booking application* developed using Oracle PL/SQL. The system allows users to book movie tickets, 
 select available showtimes, and perform various other operations such as seat reservations, payments, and activity logging. The system also validates
 registered users, prevents access for unregistered users, and ensures that users cannot delete their profiles if they have booked tickets.
 
