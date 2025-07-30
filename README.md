@@ -16,4 +16,4 @@ registered users, prevents access for unregistered users, and ensures that users
 - **Prevention of Unauthorized Deletion**: Prevents deletion of users who have existing bookings.
 
 
-![ER-diagram](cinema _booking.png)
+![ER-diagram](https://github.com/Shashikala-manohari/Cinema-booking-system/blob/793fe5e049ca8f5e674b55e73b5c1dfbe8c33d46/cinema%20booking.png)
